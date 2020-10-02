@@ -1,2 +1,2 @@
-# -fundamentals-typescript
+# fundamentals-typescript
  repository created to learn @typescript
